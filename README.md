@@ -1,4 +1,4 @@
-# Basit Laravel Blog Projesi
+# Laravel Breeze ile Post Projesi
 
 Bu proje, Laravel ve Tailwind CSS kullanılarak geliştirilmiş, temel blog özelliklerine sahip basit bir web uygulamasıdır. Kullanıcılar makale yazabilir ve silebilir; ayrıca diğer kullanıcıların makalelerini görüntüleyebilir.
 
